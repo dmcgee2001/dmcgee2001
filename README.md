@@ -19,6 +19,6 @@ I'm a passionate full stack web developer with a love for gaming and a knack for
 - You can find me immersed in gaming universes, exploring new realms and conquering challenges.
 
 ## Get in Touch!
-📧 [Email](mailto:dmcgee2001@gmail.com) | 💼 [LinkedIn](#https://linkedin.com/in/derek-mcgee)
+📧 [Email](mailto:dmcgee2001@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/derek-mcgee)
 
 Let's connect and create something amazing together! 🚀
